@@ -41,3 +41,6 @@ captures/
 
 # Python files
 __pycache__/
+
+# Hidden files
+.*/
