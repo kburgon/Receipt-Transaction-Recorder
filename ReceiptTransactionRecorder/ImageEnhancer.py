@@ -1,3 +1,8 @@
+""" Created by Kevin Burgon
+    This module performs some experimental image threshold filtering on
+    images.  This is currently meant to be run as a stand alone application.
+"""
+
 import numpy as np
 import cv2
 import sys
